@@ -1,6 +1,6 @@
 ### Hi there 👋
 ---
-I enjoy writing code and building software that is scalable, reliant and performant. I'm currently pursuing a Master of Science in Computer Science from the University of Massachusetts Amherst. Before this, I worked as a full-stack software engineer at Deskera. I completed my Bachelor's degree from IIT Madras.
+I enjoy writing code and building software that is scalable, reliant, and performant. I'm currently pursuing a Master of Science in Computer Science from the University of Massachusetts Amherst. Before this, I worked as a full-stack software engineer at Deskera. I completed my Bachelor's degree from IIT Madras.
 
 ### Tech Stack  💻
 ---
