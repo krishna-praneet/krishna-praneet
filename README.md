@@ -1,6 +1,12 @@
-### Hi there 👋
+### Hi there 👋 About me;
 ---
-I enjoy writing code and building software that is scalable, reliant, and performant. I'm currently pursuing a Ph.D. in Computer Science from the University of Massachusetts Amherst. Before this, I worked as a full-stack software engineer at Deskera. I completed my Bachelor's degree from IIT Madras.
+Drawn to problems where uncertainty isn’t a barrier — it’s the objective. 
+
+Enjoys writing code and building systems that are scalable, reliable, and performant. 
+
+Pursues a Ph.D. at the University of Massachusetts. 
+
+Was in Algorithm research at Boeing, Software development at Deskera, Publicis Sapient. Did Bachelor's from IIT Madras. 
 
 ### Tech Stack  💻
 ---
@@ -43,8 +49,9 @@ I enjoy writing code and building software that is scalable, reliant, and perfor
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
-
-
+### Reach me  💬
+---
+Now that you know a bit about me, I’d love to hear about you — kgudipaty@umass.edu.
 <!--
 **krishna-praneet/krishna-praneet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
